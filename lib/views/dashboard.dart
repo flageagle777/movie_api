@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:movie_api/models/user_login.dart';
+import 'package:movie_api/widgets/bottom_nav.dart';
 
 
 class DashboardView extends StatefulWidget {
@@ -50,6 +51,7 @@ UserLogin userLogin = UserLogin();
         ],
       ),
       body: Center(child: Text("Selamat Datang $nama role anda $role")),
+      bottomNavigationBar: BottomNav(0),
     );
   }
 }

@@ -2,25 +2,25 @@ import 'package:flutter/material.dart';
 import 'package:movie_api/widgets/bottom_nav.dart';
 
 
-class MovieView extends StatefulWidget {
-  const MovieView({super.key});
+class PesanView extends StatefulWidget {
+  const PesanView({super.key});
 
 
   @override
-  State<MovieView> createState() => _MovieViewState();
+  State<PesanView> createState() => _PesanViewState();
 }
 
 
-class _MovieViewState extends State<MovieView> {
+class _PesanViewState extends State<PesanView> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Movie"),
+        title: Text("Pesan"),
         backgroundColor: Colors.green,
         foregroundColor: Colors.white,
       ),
-      body: Text("Movie"),
+      body: Text("Pesan"),
       bottomNavigationBar: BottomNav(1),
     );
   }
