@@ -1,16 +1,7 @@
-# movie_api
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/3e5e1d9d-08aa-4684-977a-cb91ea0cacaa" />
+Register user
+<img width="954" alt="image" src="https://github.com/user-attachments/assets/14ef6542-8cfa-4ea3-a90d-75248be38f98" />
+Login user
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/5cc87b3f-ac34-4e0c-a21f-1851eb20098d" />
+<img width="940" alt="image" src="https://github.com/user-attachments/assets/dac0aeac-6cbb-4b91-997a-d783bf4b7b9d" />
+Dashboard
